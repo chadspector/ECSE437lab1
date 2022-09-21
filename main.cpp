@@ -1,4 +1,5 @@
 // Chad Spector 260868584, Daniel Bensoussan 260866423
+// chad.spector@mail.mcgill.ca, daniel.bensoussan@mail.mcgill.ca
 #include<iostream>
 using namespace std;
 int main ()
